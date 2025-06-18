@@ -1,1 +1,2 @@
 # Oficina-Html
+O código que fiz se baseia em alguns dos clubes de futebol mais conhecidos, e nele coloquei uma imagem de cada clube, junto com uma descrição para cada assim como adicionei o melhor jogador da história de cada clube. Dentro do site você pode pesquisar por um dos clubes disponiveis e ele irá trazer este clube. No código em si utilizei o gemini para ajudar um pouco na parte do css e nessa parte temos alguns dos conhecimentos vistos em aula como color, background-color, font-family,gap,flex direction,transition e transform: translate.
